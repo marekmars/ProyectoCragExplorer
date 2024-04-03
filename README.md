@@ -4,8 +4,8 @@
 **Silva Nelson Marco**  
 **Fecha:** 15/10/2023
 
-### [Enlace al repositorio con la App Móvil](enlace-a-tu-repositorio-de-la-app-movil)
-### [Enlace al repositorio con la Web API](enlace-a-tu-repositorio-de-la-web-api)
+### [Enlace al repositorio con la App Móvil](https://github.com/marekmars/appCragExplorer)
+### [Enlace al repositorio con la Web API](https://github.com/marekmars/apiCragExplorer)
   
 ## Tabla de Contenido
 1. [Introducción](#introducción)
