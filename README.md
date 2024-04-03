@@ -6,6 +6,7 @@
 
 ### [Enlace al repositorio con la App Móvil](https://github.com/marekmars/appCragExplorer)
 ### [Enlace al repositorio con la Web API](https://github.com/marekmars/apiCragExplorer)
+### [Enlace al video de muestra de la app](https://www.youtube.com/watch?v=YiJSDEeG-xY)
   
 ## Tabla de Contenido
 1. [Introducción](#introducción)
