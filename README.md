@@ -85,23 +85,4 @@ Se realizará una comparación con otras aplicaciones similares en el mercado, r
 - Éticos y Legales: La aplicación debe cumplir con las leyes de privacidad de datos y derechos de autor vigentes.
 - Interoperabilidad: La integración con la extensión de Google Maps debe ser fluida y proporcionar una experiencia de usuario coherente.
 
-## Desarrollo del Prototipo
-### Análisis y Diseño
-#### Diagrama de Casos de Uso más Relevantes
-[Insertar imagen aquí]
 
-#### Diagrama de Clases
-[Insertar imagen aquí]
-
-### Interfaz Gráfica
-[Insertar imágenes de la interfaz gráfica aquí]
-
-### Repositorios
-- [Enlace al repositorio con la App Móvil](enlace-a-tu-repositorio-de-la-app-movil)
-- [Enlace al repositorio con la Web API](enlace-a-tu-repositorio-de-la-web-api)
-
-## Bibliografía
-[Completar]
-
-## Anexo I
-[Completar]
